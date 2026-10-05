@@ -45,4 +45,3 @@ Your original project is never changed. Each new selection replaces the `selecte
 - **Samples saved anywhere:** find samples that have been moved by searching for their file name, and include frozen, flattened and consolidated audio from `Samples/Processed`.
 - **Fix the paths:** rewrite the paths inside the copied `.als` so the samples load automatically on another computer, with no "missing files" prompt.
 - **Plugin warning:** tell the user which tracks use third-party plugins and should be frozen or flattened before sharing.
-- **Drag-and-drop interface:** drop a project onto the window and see live progress, like "Copying 12 of 40".
